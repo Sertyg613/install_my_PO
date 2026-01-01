@@ -19,6 +19,7 @@ PACMAN_PKGS=(
 )
 
 AUR_PKGS=(
+    "discord: discord"
     "visual-studio-code-bin:Редактор VS Code"
     "firefox:Браузер Firefox"
     "youtube: YouTube"
